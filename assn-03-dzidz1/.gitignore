@@ -1,7 +1,9 @@
-a.out
-mid/a.out
+hashset-test
+vector-test
+thesaurus-lookup
 thesaurus-lookup-linux
 thesaurus-lookup-solaris
 *.o
-*~
-.vscode/
+mid1
+mid/
+
