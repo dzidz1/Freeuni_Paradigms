@@ -65,6 +65,4 @@ cd assn-XX-dzidz1
 └── assn-08-dzidz1/    # DNA Alignment (Python)
 ```
 
----*Concurrent programming was covered in course lectures. Assignments 5 and 6 were not assigned this year.**Concurrent programming was covered in course lectures. Assignments 5 and 6 were not assigned this year.*
-
 *Concurrent programming was covered in course lectures. Assignments 5 and 6 were not assigned this year.*
